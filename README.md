@@ -3,6 +3,14 @@
 This repository contains a NumPy Data Explorer project completed as part of the
 Syntecxhub Virtual Internship program.
 
+## Project Preview
+
+### Array Creation
+![Array Creation](preview1.png)
+
+### Reshaping Arrays
+![Reshaping Arrays](preview2.png)
+
 ## Project Objectives
 - Explore NumPy array creation, indexing, and slicing
 - Perform mathematical and statistical operations
