@@ -14,3 +14,7 @@ Syntecxhub Virtual Internship program.
 - Python
 - NumPy
 - Jupyter Notebook
+
+## Reflection
+
+Through this project, I strengthened my understanding of NumPy arrays and numerical computing in Python. I also learned how to structure a data exploration project professionally for portfolio use.
